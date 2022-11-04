@@ -1,1 +1,1 @@
-<iframe src="https://giphy.com/embed/RuAfbvHRqTRJvfQo9a" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/solar-system-css-RuAfbvHRqTRJvfQo9a">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/RuAfbvHRqTRJvfQo9a/giphy.gif" width="200" height="200" />
